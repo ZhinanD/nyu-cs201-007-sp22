@@ -1,2 +1,2 @@
-# nyu-cs0201-005-fa20
+# Computer Systems Organization
 CSCI-UA.0201-005 - Computer Systems Organization
